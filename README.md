@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @dhiraj7047
+- 👋 Hi, I’m @Dhiraj 
 - 👀 I’m interested in Web development 
-- 🌱 I’m currently learning  React 
+- 🌱 I’m currently learning JavaScript
+- Thank you for visit my profile ❤️
 
 <!---
 dhiraj7047/dhiraj7047 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
